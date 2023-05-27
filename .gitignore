@@ -88,8 +88,6 @@ obj/
 launchSettings.json
 Generated/
 ipch/
-/iedriver.log
-/phantomjsdriver.log
 geckodriver.log
 ghostdriver.log
 .tags
